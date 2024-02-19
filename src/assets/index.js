@@ -29,7 +29,7 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-
+import logingif from './undraw_programming_re_kg9v.svg'
 export {
   logo,
   backend,
@@ -59,4 +59,6 @@ export {
   carrent,
   jobit,
   tripguide,
+
+  logingif
 };
